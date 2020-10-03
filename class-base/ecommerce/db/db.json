@@ -1,0 +1,42 @@
+{
+  "login": [
+    {"name":"mukesh","password":"123"}
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Radhe Krishna Resto",
+      "address": "Tingre Nagar",
+      "rating": "4.1",
+      "email": "radhekrishna@gmal.com"
+    },
+    {
+      "id": 2,
+      "name": "Samruddhi Pure Veg",
+      "address": "Vishrant Wadi",
+      "rating": 4.2,
+      "email": "samruddhi@gmal.com"
+    },
+    {
+      "id": 3,
+      "name": "Zaika",
+      "address": "Dhanori",
+      "rating": 4.5,
+      "email": "zaika@gmal.com"
+    },
+    {
+      "name": "Aagtya",
+      "email": "aagtya@gmail.com",
+      "address": "Dhanori",
+      "rating": "4.1",
+      "id": 4
+    },
+    {
+      "name": "Taj",
+      "email": "tajresto@gmail.com",
+      "address": "Mumbai(India Gate)",
+      "rating": "4.8",
+      "id": 5
+    }
+  ]
+}
